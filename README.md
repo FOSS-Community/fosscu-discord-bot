@@ -11,7 +11,7 @@ The FOSSCU_Tomodachi is a FOSSCU-K Discord Bot is a versatile Discord bot design
 
 ## Commands
 
-- `!tomodachi`: Display the commands
+- `!help`: Display the commands
 - `!xps`: Display the XPs of the members
 - `!issues`: Fetch and display open issues
 - `!members`: Fetch and display organization members

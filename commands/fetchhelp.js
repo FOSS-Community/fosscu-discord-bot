@@ -1,9 +1,9 @@
 module.exports = {
-    name: '!tomodachi',
+    name: '!help',
     description: 'Displays all available commands',
     execute(message, args) {
         const commandList = [
-            "- `!tomodachi`: Display the commands",
+            "- `!help`: Display all the commands",
             "- `!xps`: Display the XPs of the members",
             "- `!issues`: Fetch and display open issues",
             "- `!members`: Fetch and display organization members"
