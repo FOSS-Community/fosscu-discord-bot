@@ -38,7 +38,20 @@ The FOSSCU_Tomodachi is a FOSSCU-K Discord Bot is a versatile Discord bot design
     npm i
     ```
 
-4.      **Invite Discord Bot in your Server**
+4. **Start Server**
+
+```bash
+    npm start
+    ```
+
+    If installed nodemon as dev dependency 
+
+    ```bash
+    npm run dev
+    ```
+
+
+**Invite Discord Bot in your Server**
 
     
 
