@@ -24,7 +24,7 @@ ENV BOT_TOKEN=${BOT_TOKEN}
 ENV BASE_NAME=${BASE_NAME}
 
 # Run the initialization script
-RUN npm run init
+RUN npm i
 
 # Define the command to run the application
 CMD ["npm", "start"]
