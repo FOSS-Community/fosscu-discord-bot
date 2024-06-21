@@ -19,8 +19,6 @@ module.exports = {
             }
 
             const result = await response.json();
-            console.log('Type of result:', typeof result); // Log the type of result
-
             const openPullRequests = result.items;
             let messageContent = '*Open Pull Requests:*\n';
 
